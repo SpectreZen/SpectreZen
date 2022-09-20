@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SpectreZen
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning HTML, C++, JAVA, Unity
-- 💞️ I’m looking for internship on game programmer
+- 💞️ I’m a Fresh Graduates seeking for a job in IT Technical Support or Programming
 - 📫 How to reach me is by email on razorjack14@gmail.com
 
 <!---
